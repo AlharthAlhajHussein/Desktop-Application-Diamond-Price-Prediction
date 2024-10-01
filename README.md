@@ -43,7 +43,7 @@ To run the desktop application, download the `Diamond_Price_Application.exe` fil
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo](https://img.youtube.com/vi/zxyACEkeRV0/maxresdefault.jpg)](https://www.youtube.com/watch?v=zxyACEkeRV0)
 
 Click the image to watch a demo video of the application in action.
 
