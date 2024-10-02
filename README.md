@@ -75,7 +75,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ---
 
-### Author: **Alharth Alhaj Hussein**
+### Author: 🌟**Alharth Alhaj Hussein**🌟
 
 ## 🌐 Follow Me
 
