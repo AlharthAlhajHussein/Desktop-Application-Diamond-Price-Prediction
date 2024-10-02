@@ -43,13 +43,13 @@ To run the desktop application, download the `Diamond_Price_Application.exe` fil
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/zxyACEkeRV0/maxresdefault.jpg)](https://www.youtube.com/watch?v=zxyACEkeRV0)
+[![Watch the demo](https://github.com/AlharthAlhajHussein/Desktop-Application-Diamond-Price-Prediction/blob/main/images/video_icon.png)](https://www.youtube.com/watch?v=zxyACEkeRV0)
 
 Click the image to watch a demo video of the application in action.
 
 ## 📸 Screenshot
 
-![Screenshot](https://github.com/AlharthAlhajHussein/Desktop-Application-Diamond-Price-Prediction/blob/main/images/screenshot.png)
+[![Screenshot](https://github.com/AlharthAlhajHussein/Desktop-Application-Diamond-Price-Prediction/blob/main/images/screenshot.png)](https://www.youtube.com/watch?v=zxyACEkeRV0)
 
 ## 📂 Repository Structure
 
@@ -76,3 +76,11 @@ Contributions are welcome! Please follow these steps to contribute:
 ---
 
 ### Author: **Alharth Alhaj Hussein**
+
+## 🌐 Follow Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alharth-alhaj-hussein-023417241)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlharthAlhajHussein)   
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Alharth.Alhaj.Hussein)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alharthalhajhussein)
+
